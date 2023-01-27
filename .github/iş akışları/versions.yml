@@ -1,0 +1,2 @@
+- ad: Setup Go ortamı
+  kullanımlar: action/setup-go@v3.5.0
